@@ -1,2 +1,2 @@
-# Andry-SQL
+# Angry-SQL
 My experience with data treatments in SQL and Microsoft Access
